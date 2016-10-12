@@ -1,6 +1,6 @@
 @echo off
 SET SELF=%~dp0
-SET TEMP=%SELF%\tmp
+@rem SET TEMP=%SELF%\tmp
 
 @rem set ORACLE_HOME=C:\Administration\SiebelOVAnalyzer\oraclnt
 @rem set TNS_ADMIN=C:\Administration\SiebelOVAnalyzer
